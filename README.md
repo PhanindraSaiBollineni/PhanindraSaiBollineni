@@ -20,7 +20,7 @@
 </h1>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="500"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="500"/>
 </div>
 I am a Cyber Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Cyber Security Engineer and contributing to Penetration Testing and Forensic Investigation.
@@ -48,4 +48,4 @@ I am a Cyber Security Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhanindraSaiBollineni&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraSaiBollineni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanindraSaiBollineni&layout=compact&theme=vision-friendly-dark)](https://github.com/PhanindraSaiBollineni/Penetration-Testing-Tool)
